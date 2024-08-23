@@ -25,8 +25,8 @@
 # GitHub Stats
 <div align="center">
   
-![Eflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=refactoringK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactoringK&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Eflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eflame&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eflame&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
